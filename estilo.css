@@ -1,12 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 body{
-    background: rgb(0, 110, 255);
-    font: normal 15pt arial;
+    background: #754EF9;
+ 
+    font-family: 'Poppins', sans-serif;
 }
 
 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: -10px;
     color: white;
     text-align: center;
+    
 }
 
 section{
