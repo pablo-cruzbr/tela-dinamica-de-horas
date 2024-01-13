@@ -13,11 +13,11 @@ function carregar() {
 
     if (hora >= 0 && hora < 12){
         //Bom dia 
-        img.src = "img/manha.png.png"
+        img.src = "img/manha.png"
         document.body.style.background = '#ffde02'
     }else if (hora >= 12 && hora <18){
         //Boa tarde
-        img.src = "img/tarde.png.png"
+        img.src = "img/tarde.png"
         document.body.style.background = '#e85d04'
     }else{
         //boa noite
